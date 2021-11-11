@@ -1,0 +1,15 @@
+.App {
+  height: 100%;
+  display: grid;
+  grid-template-rows: 100px auto 100px;
+}
+
+
+:root {
+  --dark-primary-color: #0288D1;
+  --ligth-primary-color: #B3E5FC;
+  --super-ligth-primary-color: #b3e5fc78;
+  --primary-color: #30a9f4;
+  --accent-color: #009688;
+  --divider-color: #BDBDBD;
+}

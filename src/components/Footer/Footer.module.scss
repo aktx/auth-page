@@ -1,0 +1,9 @@
+.root {
+    background: var(--dark-primary-color);
+    display: grid;
+    grid-auto-flow: column;
+    justify-items: flex-start;
+    justify-content: start;
+    grid-auto-columns: 350px;
+    color: white;
+}
