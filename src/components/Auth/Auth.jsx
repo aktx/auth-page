@@ -24,7 +24,7 @@ const Auth = () => {
     }
 
     return <div className={styles.formWrapper}>
-        <span className={styles.backgroundWords}>Безумно вхохновляющий слоган</span>
+        <span className={styles.backgroundWords}>Безумно вдохновляющий слоган</span>
         <form onSubmit={handleSubmit} className={styles.root}>
             <Input required placeholder='Email' type="email" icon={EmailIcon} />
             <Input required placeholder='Password' type="password" icon={PassIcon} />
