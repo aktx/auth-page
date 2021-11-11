@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/auth-page/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/auth-page/static/js/main.f1d27aaa.chunk.js",
-    "main.js.map": "/auth-page/static/js/main.f1d27aaa.chunk.js.map",
-    "runtime-main.js": "/auth-page/static/js/runtime-main.e9eb8420.js",
-    "runtime-main.js.map": "/auth-page/static/js/runtime-main.e9eb8420.js.map",
-    "static/js/2.1704a0cf.chunk.js": "/auth-page/static/js/2.1704a0cf.chunk.js",
-    "static/js/2.1704a0cf.chunk.js.map": "/auth-page/static/js/2.1704a0cf.chunk.js.map",
-    "static/js/3.333e98a3.chunk.js": "/auth-page/static/js/3.333e98a3.chunk.js",
-    "static/js/3.333e98a3.chunk.js.map": "/auth-page/static/js/3.333e98a3.chunk.js.map",
+    "main.css": "/auth-page/static/css/main.a77a66ed.chunk.css",
+    "main.js": "/auth-page/static/js/main.ba8e9d3c.chunk.js",
+    "main.js.map": "/auth-page/static/js/main.ba8e9d3c.chunk.js.map",
+    "runtime-main.js": "/auth-page/static/js/runtime-main.20a6e88c.js",
+    "runtime-main.js.map": "/auth-page/static/js/runtime-main.20a6e88c.js.map",
+    "static/js/2.5eaa1a1b.chunk.js": "/auth-page/static/js/2.5eaa1a1b.chunk.js",
+    "static/js/2.5eaa1a1b.chunk.js.map": "/auth-page/static/js/2.5eaa1a1b.chunk.js.map",
+    "static/js/3.41a24745.chunk.js": "/auth-page/static/js/3.41a24745.chunk.js",
+    "static/js/3.41a24745.chunk.js.map": "/auth-page/static/js/3.41a24745.chunk.js.map",
     "index.html": "/auth-page/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/auth-page/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.1704a0cf.chunk.js.LICENSE.txt": "/auth-page/static/js/2.1704a0cf.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/auth-page/static/media/logo.6ce24c58.svg"
+    "static/css/main.a77a66ed.chunk.css.map": "/auth-page/static/css/main.a77a66ed.chunk.css.map",
+    "static/js/2.5eaa1a1b.chunk.js.LICENSE.txt": "/auth-page/static/js/2.5eaa1a1b.chunk.js.LICENSE.txt",
+    "static/media/auth-email-icon.1136a977.svg": "/auth-page/static/media/auth-email-icon.1136a977.svg",
+    "static/media/auth-pass-icon.82ea438f.svg": "/auth-page/static/media/auth-pass-icon.82ea438f.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e9eb8420.js",
-    "static/js/2.1704a0cf.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.f1d27aaa.chunk.js"
+    "static/js/runtime-main.20a6e88c.js",
+    "static/js/2.5eaa1a1b.chunk.js",
+    "static/css/main.a77a66ed.chunk.css",
+    "static/js/main.ba8e9d3c.chunk.js"
   ]
 }
